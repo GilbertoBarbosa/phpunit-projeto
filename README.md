@@ -1,2 +1,2 @@
 # phpunit-projeto
-Projeto em PHP utilizando o PHPUnit
+Projeto em PHP utilizando o PHPUnit - Curso Alura
